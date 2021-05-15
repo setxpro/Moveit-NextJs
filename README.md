@@ -10,7 +10,7 @@
 
 <p>
    O Moveit é um Software que te ajuda durante sua jornada com o computador, <br>
-   Com ele você Estuda/Trabalha de forma eficiente, ultilizando a motodogia de pomodoro, <br>
+   Com ele você Estuda/Trabalha de forma eficiente, ultilizando a motodologia de pomodoro, <br>
    Você mantém um foco no aprendizado durante um determinado tempo e após isso recebe desafios, <br>
    Seus desafios conclídos geram XP que te levam para o próximo Level 🚀 <br>
 </p>

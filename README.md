@@ -51,5 +51,5 @@ yarn dev
 
 Durante a NLW v.4 🚀. <br>
 
-## Em construção para o Next level 🚀<br/>
+## Under construction to the next level 🚀<br/>
 Esse Repósitorio contém uma [MIT Licence]

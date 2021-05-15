@@ -28,7 +28,7 @@
 ## 💾 Clone
 
 ```sh
-git clone ?
+git clone https://github.com/setxpro/Moveit-NextJs.git
 ```
 
 ## 🗳 Install

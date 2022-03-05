@@ -4,7 +4,7 @@
 
 </div>
 
-### ✨ Conheça o Moveit 🚀 feito durando a NLW v.4 🚀 <br>
+### ✨ Conheça o Moveit <br>
 
 ### ☄️ Descrição ☄️
 
@@ -48,8 +48,6 @@ yarn dev
 
 * Website: https://moveit-two-ecru.vercel.app/
 * Github: [@setxpro](https://github.com/setxpro)
-
-Durante a NLW v.4 🚀. <br>
 
 ## Under construction to the next level 🚀<br/>
 Esse Repósitorio contém uma [MIT Licence]

@@ -47,7 +47,6 @@ yarn dev
 👤 **Patrick Anjos**
 
 * Website: https://moveit-two-ecru.vercel.app/
-* Github: [@setxpro](https://github.com/setxpro)
 
 ## Under construction to the next level 🚀<br/>
 Esse Repósitorio contém uma [MIT Licence]
